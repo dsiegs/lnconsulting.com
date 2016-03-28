@@ -10,15 +10,16 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 		<div class="col-md-6" >
 			<div class="well" >
 				<h3>Central Vermont Medical Center Three East Renovation Project</h3>
+				<h4>Berlin, VT</h4>
 				<p>
    
-   L.N. Consulting, Inc. worked with Morris Switzer Environments for Health in designing the proposed renovations to East Wing of the third floor at Central Vermont Hospital.  The proposed renovations to Three East accommodate the relocation of the CVH respiratory therapy program.  The renovation included exam rooms, laboratory areas, and support spaces.
+   Our company worked with Morris Switzer Environments for Health in designing the renovations to East Wing of the third floor at Central Vermont Hospital.  The renovations accommodated the relocation of the CVH respiratory therapy program.  The renovation included exam rooms, laboratory areas, and support spaces.
 </p>
-				<p>Berlin, VT</p>
-				<p>Central Vermont Medical Center, Amy Slayton (802) 371 4100</p>
-				<p>Morris/Switzer Environments for Health, Robert Mallette, (802) 878-8841</p>
-				<p>H.P. Cummings, Inc.</p>
-				<p>$1.0 million</p>
+				
+				<p>Client: Central Vermont Medical Center</p>
+				<p>Architect: Morris/Switzer Environments for Health</p>
+				<p>Construction Manager: H.P. Cummings, Inc.</p>
+				<p>Project cost: $1.0 million</p>
 				<p>Completed 2003</p>
 				<p></p>
 				
