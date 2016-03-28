@@ -10,15 +10,16 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 		<div class="col-md-6" >
 			<div class="well" >
 				<h3>Northwestern Medical Center Surgical Services Expansion and Renovation</h3>
+				<h4>St. Albans, VT</h4>
 				<p>
    
-   L.N. Consulting, Inc. worked with Morris/Switzer and Associates in developing a surgical suite expansion and renovation project for Northwestern Medical Center.  The total construction cost was approximately $5.5 million.  The surgical suite expansion included all support functions including, pre-operation hold, post operation, central sterile supply, registration, and support offices as well as (3) three operating rooms, (2) two procedure rooms, and an endoscopy suite.  The mechanical systems included new air handling equipment, cooling equipment, medical vacuum system, and hot water heating system.  The operating room mechanical infrastructure is located in a mechanical room, which allows excellent maintenance access without interruption of the operating suite.
+   Our company worked with Morris/Switzer and Associates in developing a surgical suite expansion and renovation project for Northwestern Medical Center. The surgical suite expansion included all support functions including, pre-operation hold, post operation, central sterile supply, registration, and support offices as well as (3) three operating rooms, (2) two procedure rooms, and an endoscopy suite.  The mechanical systems included new air handling equipment, cooling equipment, medical vacuum system, and hot water heating system.  The operating room mechanical infrastructure is located in a mechanical room, which allows excellent maintenance access without interruption of the operating suite.
 </p>
-				<p>St. Albans, VT</p>
-				<p>Northwestern Medical Center, Mark Sutton, (802) 524-5911</p>
-				<p>Morris/Switzer Environments for Health, Robert Mallette, (802) 878-8841</p>
-				<p>Pizzagalli Construction</p>
-				<p>$ 5.5 million</p>
+				
+				<p>Client: Northwestern Medical Center</p>
+				<p>Architect: Morris/Switzer Environments for Health</p>
+				<p>Construction Manager: Pizzagalli Construction</p>
+				<p>Project cost: $5.5 million</p>
 				<p>Completed 2000</p>
 				<p></p>
 				
