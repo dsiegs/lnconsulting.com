@@ -10,15 +10,16 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 		<div class="col-md-6" >
 			<div class="well" >
 				<h3>Champlain College Adirondack House Dormitory Project</h3>
+				<h4>Burlington, VT</h4>
 				<p>
    
-   L.N. Consulting completed design and construction administration services for Champlain College?s Levi-Smith Dormitory Project. The Levi-Smith Dormitory Project consisted of a new 35,000 sq. ft. three story dormitory and included approximately (70) student beds.  The building HVAC systems incorporated air conditioning, including a dedicated central chilled water plant planned for ice storage capability, as well as a demand controlled energy recovery ventilation system and high efficiency radiant heat system.
+   L.N. Consulting completed design and construction administration services for Champlain College's Levi-Smith Dormitory Project. The project consisted of a new 35,000 sq. ft. three story dormitory and included approximately (70) student beds.  The building HVAC systems incorporated air conditioning, including a dedicated central chilled water plant planned for ice storage capability, as well as a demand controlled energy recovery ventilation system and high efficiency radiant heat system.
 </p>
-				<p>Burlington, VT</p>
-				<p>Champlain College, Michel George (802) 865-5470</p>
-				<p>Colin Lindberg Architect, Colin Lindberg, (802) 864-4950</p>
-				<p>DEW Construction</p>
-				<p>$6.0 million</p>
+				
+				<p>Client: Champlain College</p>
+				<p>Architect: Colin Lindberg Architect</p>
+				<p>Construction Manager: DEW Construction</p>
+				<p>Project Cost: $6.0 million</p>
 				<p>Completed 2007</p>
 				<p></p>
 				
